@@ -14,3 +14,5 @@ comments to make it easier to read (but it's still tricky to read in certain par
 
 ### build binary tinytetris-commented.cpp
 `g++ -o tinytetris-commented tinytetris-commented.cpp -lncurses`
+
+### 在linux下的vscode中调试时需要将-lncurses 参数加入到tasks.json文件中，这样才可以调试
