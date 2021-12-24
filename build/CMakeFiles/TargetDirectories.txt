@@ -1,0 +1,3 @@
+/home/iairiv/lxk/C++相关/tinytetris/tinytetris/build/CMakeFiles/rebuild_cache.dir
+/home/iairiv/lxk/C++相关/tinytetris/tinytetris/build/CMakeFiles/edit_cache.dir
+/home/iairiv/lxk/C++相关/tinytetris/tinytetris/build/CMakeFiles/tinytetris.dir

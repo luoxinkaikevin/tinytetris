@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tinytetris-commented.h
+ctime
+-
+curses.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/iairiv/lxk/C++相关/tinytetris/tinytetris/main.cpp
+tinytetris-commented.h
+/home/iairiv/lxk/C++相关/tinytetris/tinytetris/tinytetris-commented.h
+
+/home/iairiv/lxk/C++相关/tinytetris/tinytetris/src/tinytetris-commented.cpp
+tinytetris-commented.h
+/home/iairiv/lxk/C++相关/tinytetris/tinytetris/src/tinytetris-commented.h
+

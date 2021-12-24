@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/iairiv/lxk/C++相关/tinytetris/tinytetris/build",
+  "command": "/bin/c++   -I/home/iairiv/lxk/C++相关/tinytetris/tinytetris/include   -Wall -lncurses -g   -o CMakeFiles/tinytetris.dir/main.cpp.o -c /home/iairiv/lxk/C++相关/tinytetris/tinytetris/main.cpp",
+  "file": "/home/iairiv/lxk/C++相关/tinytetris/tinytetris/main.cpp"
+},
+{
+  "directory": "/home/iairiv/lxk/C++相关/tinytetris/tinytetris/build",
+  "command": "/bin/c++   -I/home/iairiv/lxk/C++相关/tinytetris/tinytetris/include   -Wall -lncurses -g   -o CMakeFiles/tinytetris.dir/src/tinytetris-commented.cpp.o -c /home/iairiv/lxk/C++相关/tinytetris/tinytetris/src/tinytetris-commented.cpp",
+  "file": "/home/iairiv/lxk/C++相关/tinytetris/tinytetris/src/tinytetris-commented.cpp"
+}
+]

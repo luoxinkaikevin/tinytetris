@@ -1,0 +1,1 @@
+/bin/c++   -Wall -lncurses -g  -rdynamic CMakeFiles/tinytetris.dir/main.cpp.o CMakeFiles/tinytetris.dir/src/tinytetris-commented.cpp.o  -o tinytetris  -lcurses -lform 
